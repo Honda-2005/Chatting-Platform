@@ -1,0 +1,18 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.lib
+*.dll
+
+# Runtime generated data files
+users.txt
+chats.txt
+messages.txt
+
+# IDE / Editor artifacts
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
